@@ -1,1 +1,1 @@
-# React-TaskManager-App
+# React-TaskManager-App - React JS demo application from the course from Udemy
